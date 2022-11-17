@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Notes App</string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="log_in_to_continue">Log In To Continue</string>
+</resources>
